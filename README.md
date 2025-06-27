@@ -9,7 +9,7 @@ MENTOR : NEELA SANTOSH
 # OPTIMIZATION-MODEL
 
 
-# 📈 Business Optimization Model using Linear Programming (Task 4 – CodTech Internship)
+# 📈 Business Optimization Model using Linear Programming 
 
 This project solves a business problem using **Linear Programming (LP)** techniques and the **PuLP** optimization library in Python. It is part of Task 4 of the CodTech internship, where the goal is to model and optimize a real-world scenario using mathematical optimization methods.
 
@@ -107,6 +107,10 @@ This project demonstrates practical application of OR (Operations Research) in b
 - Optimal units of Product A: 20
 - Optimal units of Product B: 60
 - Maximum Profit: ₹1800
+
+- output:
+
+- ![Image](https://github.com/user-attachments/assets/fd057aa5-cf5e-4dbf-a802-4fc814cb7584)
 
 
 
